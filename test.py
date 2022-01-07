@@ -1,3 +1,3 @@
-if True:
-    print "True Test"
+print ("True Test")
+
     
